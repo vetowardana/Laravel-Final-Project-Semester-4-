@@ -56,8 +56,8 @@ return [
     */
 
     'from' => [
-        'address' => env('MAIL_FROM_ADDRESS', 'veto.p@students.amikom.ac.id'),
-        'name' => env('MAIL_FROM_NAME', 'Veto Wardana Putra'),
+        'address' => env('MAIL_FROM_ADDRESS', 'deleted'),
+        'name' => env('MAIL_FROM_NAME', 'deleted'),
     ],
 
     /*
